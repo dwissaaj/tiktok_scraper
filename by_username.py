@@ -108,4 +108,3 @@ df = pd.DataFrame({'id' : id,
                     'stitchDisplay':stitchDisplay,
                    })
 
-df.to_excel("newest posindonesia.xlsx")
