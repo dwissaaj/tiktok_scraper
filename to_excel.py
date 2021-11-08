@@ -1,6 +1,3 @@
-import cleaning
-import pandas as pd
-import basedOnId
-import by_hastag
+import by_username
 
-data = cleaning.df.to_excel('user crawling ninjaxpressid.xlsx')
+data = by_username.df.to_excel('user pos indonesia.xlsx')
